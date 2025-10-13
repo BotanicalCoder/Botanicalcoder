@@ -1,16 +1,30 @@
-## Hi there 👋
+````markdown name=README.md
+# 👋 Hi, I'm Chibueze Evans Okocha ( BotanicalCoder !)
 
-<!--
-**BotanicalCoder/Botanicalcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌱
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer who loves building things with code and exploring new technologies. Whether it's backend systems, web apps, or automation scripts, I enjoy tackling challenges and learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌿 Interested in open source, sustainability, and creative coding.
+- 💡 Always curious about new programming languages and tools.
+- 📚 Lifelong learner and technology enthusiast.
+
+## 🛠️ Languages & Tools
+- Python, JavaScript, TypeScript, Java, Solidity
+- Node.js, React, Express, NestJS
+- Git & GitHub
+- Docker & CI/CD
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BotanicalCoder&show_icons=true&hide_title=true)
+
+## 🌎 Connect With Me
+- [Twitter](https://twitter.com/chisageo)
+- [LinkedIn](https://www.linkedin.com/in/chibueze-okocha-749a291a8)
+- [Personal Website](https://botanicalcoder.netlify.app)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate. 🌱✨
+````
