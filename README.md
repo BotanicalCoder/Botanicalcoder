@@ -1,7 +1,7 @@
 ````markdown name=README.md
 Hi, I'm Chibueze Evans Okocha ( BotanicalCoder !)
 
-Welcome to my GitHub profile! 🌱
+Welcome to my GitHub profile!
 
 About Me
 I'm a passionate developer who loves building things with code and exploring new technologies. Whether it's backend systems, web apps, or automation scripts, I enjoy tackling challenges and learning along the way.
@@ -26,5 +26,5 @@ I'm a passionate developer who loves building things with code and exploring new
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate. 🌱✨
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 ````
