@@ -24,7 +24,7 @@ I'm a passionate developer who loves building things with code and exploring new
 - [LinkedIn](https://www.linkedin.com/in/chibueze-okocha-749a291a8)
 - [Personal Website](https://botanicalcoder.netlify.app)
 
----
+
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 ````
